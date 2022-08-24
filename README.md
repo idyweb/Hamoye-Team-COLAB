@@ -14,6 +14,8 @@ HDSC Summer ‘22 Premiere Project Presentation Crime Against Women In India (20
 
 A Project by Team Colab
 
+![alt text](https://github.com/[idyweb]/[Hamoye:Team-COLAB]/blob/[master]/image.jpg?raw=true)
+
 INTRODUCTION
 Crimes against women is a popular human right violation in the world, this is why there are a lot of laws and policies to protect women's gender.  Violence against women refers to physical and sexual violence committed against women, common violence against women in India are acts such as domestic abuse, sexual assault, and murder.
 Team colab was given the dataset of crimes against women in India, this data contained information on the different crimes committed against women in different states from 2001-2014.
